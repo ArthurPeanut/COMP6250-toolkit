@@ -24,7 +24,7 @@ When open this webpage, the welcome page comes first.\
 ![image](https://github.com/ArthurPeanut/COMP6250-toolkit/blob/main/screenshots/welcome-page.png)
 
 The welcome page has a nav bar on the top. You can tap "Tips" for using tips, \
-or tap "Forms" or "Get Started" to start the survey.\
+or tap "Forms" or "Get Started" to start the survey.
 
 ### Tips page
 
@@ -37,7 +37,7 @@ As you get ready, time to start the survey!
 
 Here we start the survey. \
 We carefully designed the questions to measure your interest and power on your project. \
-For convenience, you can answer the questions rating on the scale of 1-5. \
+For convenience, you can answer the questions rating on the scale of 1-5. 
 
 ![image](https://github.com/ArthurPeanut/COMP6250-toolkit/blob/main/screenshots/form-page-1.png)
 
