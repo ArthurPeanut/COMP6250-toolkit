@@ -52,7 +52,7 @@ Finally, here comes the result!
 ![image](https://github.com/ArthurPeanut/COMP6250-toolkit/blob/main/screenshots/result-page-hh.png)
 
 Apparently, you have both high power and interest on your project! \
-As a responsible stakeholder, why don't you manage your project closely? \
+As a responsible stakeholder, why don't you manage your project closely? 
 
 ### Details on design
 
