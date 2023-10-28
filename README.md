@@ -20,5 +20,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### Welcome page
 
 When open this webpage, the welcome page comes first.\
-![image]([https://](https://github.com/ArthurPeanut/COMP6250-toolkit/)https://github.com/ArthurPeanut/COMP6250-toolkit/screenshots/welcome-page.png)
+![image](https://github.com/ArthurPeanut/COMP6250-toolkit/blob/main/screenshots/welcome-page.png)
 
